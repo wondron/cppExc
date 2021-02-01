@@ -15,7 +15,9 @@ SOURCES += \
 HEADERS += \
     ArrayTp.h \
     mainwindow.h \
-    stack.h
+    stack.h \
+    array.h \
+    pair.h
 
 FORMS += \
     mainwindow.ui
